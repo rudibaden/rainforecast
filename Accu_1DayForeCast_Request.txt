@@ -1,0 +1,29 @@
+GET /forecasts/v1/daily/1day/298009?apikey=aYGshNEXSZFZtHAjAhWZGfGI56XsrHcT&language=en-us&details=true&metric=true HTTP/1.1
+Accept:
+*/*
+Accept-Encoding:
+gzip
+Accept-Language:
+en-US
+Host:
+dataservice.accuweather.com
+sec-ch-ua:
+Microsoft Edge";v="117
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+Windows
+Sec-Fetch-Dest:
+empty
+Sec-Fetch-Mode:
+cors
+Sec-Fetch-Site:
+cross-site
+User-Agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML
+X-Forwarded-For:
+41.133.90.122
+X-Forwarded-Port:
+443
+X-Forwarded-Proto:
+https

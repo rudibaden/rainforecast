@@ -1,0 +1,276 @@
+{
+  "Headline": {
+    "EffectiveDate": "2023-10-15T13:00:00+02:00",
+    "EffectiveEpochDate": 1697367600,
+    "Severity": 4,
+    "Text": "A thunderstorm Sunday afternoon",
+    "Category": "thunderstorm",
+    "EndDate": "2023-10-15T19:00:00+02:00",
+    "EndEpochDate": 1697389200,
+    "MobileLink": "http://www.accuweather.com/en/za/lynnwood-manor/298009/daily-weather-forecast/298009?unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/za/lynnwood-manor/298009/daily-weather-forecast/298009?unit=c&lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2023-10-15T07:00:00+02:00",
+      "EpochDate": 1697346000,
+      "Sun": {
+        "Rise": "2023-10-15T05:33:00+02:00",
+        "EpochRise": 1697340780,
+        "Set": "2023-10-15T18:13:00+02:00",
+        "EpochSet": 1697386380
+      },
+      "Moon": {
+        "Rise": "2023-10-15T05:51:00+02:00",
+        "EpochRise": 1697341860,
+        "Set": "2023-10-15T18:59:00+02:00",
+        "EpochSet": 1697389140,
+        "Phase": "WaxingCrescent",
+        "Age": 1
+      },
+      "Temperature": {
+        "Minimum": {
+          "Value": 13.6,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 24.8,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "RealFeelTemperature": {
+        "Minimum": {
+          "Value": 11,
+          "Unit": "C",
+          "UnitType": 17,
+          "Phrase": "Cool"
+        },
+        "Maximum": {
+          "Value": 25.5,
+          "Unit": "C",
+          "UnitType": 17,
+          "Phrase": "Pleasant"
+        }
+      },
+      "RealFeelTemperatureShade": {
+        "Minimum": {
+          "Value": 11,
+          "Unit": "C",
+          "UnitType": 17,
+          "Phrase": "Cool"
+        },
+        "Maximum": {
+          "Value": 23,
+          "Unit": "C",
+          "UnitType": 17,
+          "Phrase": "Pleasant"
+        }
+      },
+      "HoursOfSun": 2.9,
+      "DegreeDaySummary": {
+        "Heating": {
+          "Value": 0,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Cooling": {
+          "Value": 1,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "AirAndPollen": [
+        {
+          "Name": "AirQuality",
+          "Value": 0,
+          "Category": "Good",
+          "CategoryValue": 1,
+          "Type": "Ozone"
+        },
+        {
+          "Name": "Grass",
+          "Value": 0,
+          "Category": "Low",
+          "CategoryValue": 1
+        },
+        {
+          "Name": "Mold",
+          "Value": 0,
+          "Category": "Low",
+          "CategoryValue": 1
+        },
+        {
+          "Name": "Ragweed",
+          "Value": 0,
+          "Category": "Low",
+          "CategoryValue": 1
+        },
+        {
+          "Name": "Tree",
+          "Value": 0,
+          "Category": "Low",
+          "CategoryValue": 1
+        },
+        {
+          "Name": "UVIndex",
+          "Value": 5,
+          "Category": "Moderate",
+          "CategoryValue": 2
+        }
+      ],
+      "Day": {
+        "Icon": 16,
+        "IconPhrase": "Mostly cloudy w/ t-storms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Heavy",
+        "ShortPhrase": "An afternoon thunderstorm",
+        "LongPhrase": "Some sun, then turning cloudy with a thunderstorm this afternoon",
+        "PrecipitationProbability": 61,
+        "ThunderstormProbability": 37,
+        "RainProbability": 61,
+        "SnowProbability": 0,
+        "IceProbability": 0,
+        "Wind": {
+          "Speed": {
+            "Value": 16.7,
+            "Unit": "km/h",
+            "UnitType": 7
+          },
+          "Direction": {
+            "Degrees": 318,
+            "Localized": "NW",
+            "English": "NW"
+          }
+        },
+        "WindGust": {
+          "Speed": {
+            "Value": 37,
+            "Unit": "km/h",
+            "UnitType": 7
+          },
+          "Direction": {
+            "Degrees": 349,
+            "Localized": "N",
+            "English": "N"
+          }
+        },
+        "TotalLiquid": {
+          "Value": 5.8,
+          "Unit": "mm",
+          "UnitType": 3
+        },
+        "Rain": {
+          "Value": 5.8,
+          "Unit": "mm",
+          "UnitType": 3
+        },
+        "Snow": {
+          "Value": 0,
+          "Unit": "cm",
+          "UnitType": 4
+        },
+        "Ice": {
+          "Value": 0,
+          "Unit": "mm",
+          "UnitType": 3
+        },
+        "HoursOfPrecipitation": 1,
+        "HoursOfRain": 1,
+        "HoursOfSnow": 0,
+        "HoursOfIce": 0,
+        "CloudCover": 81,
+        "Evapotranspiration": {
+          "Value": 2.8,
+          "Unit": "mm",
+          "UnitType": 3
+        },
+        "SolarIrradiance": {
+          "Value": 3490.9,
+          "Unit": "W/m²",
+          "UnitType": 33
+        }
+      },
+      "Night": {
+        "Icon": 12,
+        "IconPhrase": "Showers",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate",
+        "ShortPhrase": "Early rain; mostly cloudy",
+        "LongPhrase": "Periods of rain this evening; otherwise, mostly cloudy",
+        "PrecipitationProbability": 75,
+        "ThunderstormProbability": 18,
+        "RainProbability": 75,
+        "SnowProbability": 0,
+        "IceProbability": 0,
+        "Wind": {
+          "Speed": {
+            "Value": 16.7,
+            "Unit": "km/h",
+            "UnitType": 7
+          },
+          "Direction": {
+            "Degrees": 55,
+            "Localized": "NE",
+            "English": "NE"
+          }
+        },
+        "WindGust": {
+          "Speed": {
+            "Value": 38.9,
+            "Unit": "km/h",
+            "UnitType": 7
+          },
+          "Direction": {
+            "Degrees": 63,
+            "Localized": "ENE",
+            "English": "ENE"
+          }
+        },
+        "TotalLiquid": {
+          "Value": 5.6,
+          "Unit": "mm",
+          "UnitType": 3
+        },
+        "Rain": {
+          "Value": 5.6,
+          "Unit": "mm",
+          "UnitType": 3
+        },
+        "Snow": {
+          "Value": 0,
+          "Unit": "cm",
+          "UnitType": 4
+        },
+        "Ice": {
+          "Value": 0,
+          "Unit": "mm",
+          "UnitType": 3
+        },
+        "HoursOfPrecipitation": 4,
+        "HoursOfRain": 4,
+        "HoursOfSnow": 0,
+        "HoursOfIce": 0,
+        "CloudCover": 76,
+        "Evapotranspiration": {
+          "Value": 0.3,
+          "Unit": "mm",
+          "UnitType": 3
+        },
+        "SolarIrradiance": {
+          "Value": 48.2,
+          "Unit": "W/m²",
+          "UnitType": 33
+        }
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/za/lynnwood-manor/298009/daily-weather-forecast/298009?day=1&unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/za/lynnwood-manor/298009/daily-weather-forecast/298009?day=1&unit=c&lang=en-us"
+    }
+  ]
+}
