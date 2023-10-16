@@ -1,8 +1,8 @@
-import hassapi as hass
+import appdaemon.plugins.hass.hassapi as hass
 import time
 import datetime
 
-class Get_Accu_RainForeCast(hass.Hass):
+class accu_rainforecast(hass.Hass):
     def initialize(self):
         
         self.log("accu_rainforecast initializing...")
